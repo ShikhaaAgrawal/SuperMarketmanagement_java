@@ -22,7 +22,7 @@ MySQL Database
 
 Clone the repository:
 
-bash Copy code git clone https://github.com/your-username/supermarket-management-system.git Open the project in NetBeans IDE.
+bash Copy code git clone https://github.com/ShikhaaAgrawal/SuperMarketmanagement_java.git Open the project in NetBeans IDE.
 
 Set up the database:
 
